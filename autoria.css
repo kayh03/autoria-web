@@ -1,0 +1,16 @@
+div.textos{
+    position: relative;
+    
+}
+
+div.imagens-1{
+    position: fixed;
+    left: 550px;
+    top: 10px;
+    width: 522.5;
+    height: 646.25;
+    text-align: center;
+    background-color: #E7F3FF;
+    padding: 178px 197px;
+}
+    
